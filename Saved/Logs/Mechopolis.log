@@ -10499,3 +10499,28 @@ Script call stack:
 [2023.10.20-16.16.01:787][542]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (48)
 [2023.10.20-16.16.01:788][542]LogModuleManager: Shutting down and abandoning module SourceControl (47)
 [2023.10.20-16.16.01:788][542]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.10.20-16.16.01:789][542]LogXGEController: Cleaning working directory: C:/Users/Pau/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.10.20-16.16.01:789][542]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.10.20-16.16.01:789][542]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.10.20-16.16.01:790][542]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.10.20-16.16.01:791][542]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.10.20-16.16.01:792][542]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.10.20-16.16.01:792][542]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.10.20-16.16.01:792][542]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.10.20-16.16.01:792][542]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.10.20-16.16.01:792][542]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.10.20-16.16.01:792][542]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.10.20-16.16.01:794][542]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.10.20-16.16.01:794][542]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.10.20-16.16.01:794][542]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.10.20-16.16.01:795][542]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.10.20-16.16.02:184][542]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.10.20-16.16.02:217][542]LogExit: Exiting.
+[2023.10.20-16.16.02:251][542]Log file closed, 10/20/23 18:16:02
