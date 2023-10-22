@@ -1548,12 +1548,3 @@ Script Stack (0 frames) :
 [2023.10.22-16.20.41:795][484]LogOutputDevice: Error: [Callstack] 0x00007ffe1550257d KERNEL32.DLL!UnknownFunction []
 [2023.10.22-16.20.41:795][484]LogOutputDevice: Error: [Callstack] 0x00007ffe167aaa78 ntdll.dll!UnknownFunction []
 [2023.10.22-16.20.41:795][484]LogOutputDevice: Error: 
-[2023.10.22-16.20.41:805][484]LogStats:                SubmitErrorReport -  0.000 s
-[2023.10.22-16.20.42:409][484]LogStats:                    SendNewReport -  0.603 s
-[2023.10.22-16.20.42:409][484]LogStats:             FDebug::EnsureFailed -  0.636 s
-[2023.10.22-16.20.42:414][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2023.10.22-16.20.42:436][484]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
-[2023.10.22-16.20.42:436][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
-[2023.10.22-16.20.42:438][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
-[2023.10.22-16.20.42:446][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
-[2023.10.22-16.20.42:460][485]LogPlayLevel: Display: Destroying online subsystem :Context_9
