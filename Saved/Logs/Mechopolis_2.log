@@ -17930,3 +17930,26 @@ Landscape_WaterBrushManager
 [2023.10.23-19.51.38:680][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
 [2023.10.23-19.51.38:690][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2023.10.23-19.51.38:698][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.10.23-19.52.20:558][411]LogTexture: Display: Building textures: /Game/Map/Cyberpunk.Cyberpunk:PersistentLevel.Landscape_4.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 2.062492 MB), EncodeSpeed: Fast
+[2023.10.23-19.52.20:560][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-19.52.20:564][411]LogObjectTools: Deleting 1 worlds: /Game/Map/Cyberpunk.Cyberpunk
+[2023.10.23-19.52.20:564][411]LogObjectTools: Currently 7 active worlds: /Game/TopDown/Maps/TopDownMap.TopDownMap, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_7, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12
+[2023.10.23-19.52.20:575][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.23-19.52.24:194][411]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.23-19.52.24:202][411]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Map/Cyberpunk.Cyberpunk
+	Asset Type: World
+[2023.10.23-19.52.24:364][411]LogWorld: UWorld::CleanupWorld for Cyberpunk, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-19.52.24:364][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-19.52.24:421][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.23-19.52.24:429][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.10.23-19.52.24:437][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.10.23-19.52.26:601][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.10.23-19.52.27:471][609]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.23-19.52.27:508][609]LogSlate: Window 'City' being destroyed
+[2023.10.23-19.52.27:602][609]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Map/City.City
+	Asset Type: PCGGraph
+[2023.10.23-19.52.27:821][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.23-19.52.27:832][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.23-19.52.27:841][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
