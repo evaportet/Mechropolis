@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Descargas/evapo/e n t i/GitHub/Mechropolis/Content/TopDown/Blueprints/RobotAutomation/Robot.uasset",
+				"D:/Descargas/evapo/e n t i/GitHub/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/Robot_Anim.uasset",
+				"D:/Descargas/evapo/e n t i/GitHub/Mechropolis/Content/Animation/BP_Valerie.uasset",
+				"D:/Descargas/evapo/e n t i/GitHub/Mechropolis/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/TT/UHO58NE9WX8VFHPEJ5DVVV.uasset",
 				"C:/Users/Pau/Documents/GitKraken/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/Robot_Anim.uasset",
 				"C:/Users/Pau/Documents/GitKraken/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/Robot_BlendSpace.uasset",
 				"C:/Users/Pau/Documents/GitKraken/Mechropolis/Content/TopDown/Blueprints/RobotAutomation/AI_RobotControler.uasset",
