@@ -1369,3 +1369,1054 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.23-08.05.25:998][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 171 ms)
 [2023.10.23-08.05.26:001][358]AssetCheck: New page: Asset Save: BP_TopDownCharacter
 [2023.10.23-08.05.26:001][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Player/BP_TopDownCharacter.BP_TopDownCharacter
+[2023.10.23-08.06.09:705][994]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Robots/Robots/ProtoRobot/Robot_Skeleton.Robot_Skeleton
+[2023.10.23-08.06.09:801][994]LogSkeletalMesh: Building Skeletal Mesh Robot...
+[2023.10.23-08.06.09:805][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.06.09:805][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.06.09:831][994]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Robot) ...
+[2023.10.23-08.06.10:022][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID2_Metal_normal.ID2_Metal_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:022][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID2_Metal_albedo.ID2_Metal_albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:023][994]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/Assets/Robots/Robots/ProtoRobot/Robot.Robot
+[2023.10.23-08.06.10:023][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID1_PaintMetal_gloss.ID1_PaintMetal_gloss (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:023][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID2_Metal_emissive.ID2_Metal_emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:026][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID2_Metal_specular.ID2_Metal_specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:026][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID1_PaintMetal_ao.ID1_PaintMetal_ao (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:026][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID2_Metal_ao.ID2_Metal_ao (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:026][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID2_Metal_gloss.ID2_Metal_gloss (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:045][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.06.10:064][994]LogTexture: Display: Waiting for textures to be ready 0/16 (/Game/Assets/Robots/Robots/ProtoRobot/Textures/ID1_PaintMetal_normal) ...
+[2023.10.23-08.06.10:069][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID1_PaintMetal_albedo.ID1_PaintMetal_albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:214][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID1_PaintMetal_specular.ID1_PaintMetal_specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:265][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID1_PaintMetal_normal.ID1_PaintMetal_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:581][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID3_Rubber_normal.ID3_Rubber_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:667][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID3_Rubber_albedo.ID3_Rubber_albedo (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:717][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID3_Rubber_specular.ID3_Rubber_specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:718][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID3_Rubber_gloss.ID3_Rubber_gloss (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:768][994]LogTexture: Display: Building textures: /Game/Assets/Robots/Robots/ProtoRobot/Textures/ID3_Rubber_ao.ID3_Rubber_ao (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.10.23-08.06.10:973][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.06.10:974][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.06.11:037][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.06.11:048][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.06.11:104][994]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: ================================================
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Total job queries 33, among them cache hits 4 (12.12%)
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 21 distinct outputs (80.77%)
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: RAM used: 543,67 KiB of 1,60 GiB budget. Usage: 0.03%
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Shaders Compiled: 3
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 1.38 s
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Job life time (pending + execution): average 1.47 s, max 1.48
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.48 s
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Total thread time: 2,321 s
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Total thread preprocess time: 1,105 s
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Percentage time preprocessing: 47.62%
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Effective parallelization: 1.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.74 sec)
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.10.23-08.06.12:548][ 84]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.74 sec)
+[2023.10.23-08.06.12:549][ 84]LogShaderCompilers: Display: ================================================
+[2023.10.23-08.06.12:760][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.06.16:181][346]LogSlate: Window 'Robot_Skeleton' being destroyed
+[2023.10.23-08.06.16:186][346]LogSlate: Window 'Robot_Skeleton' being destroyed
+[2023.10.23-08.06.16:194][346]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.06.16:194][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.06.16:222][346]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.06.16:222][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.06.49:544][345]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.23-08.06.49:544][345]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.23-08.07.22:880][345]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.23-08.07.28:985][ 48]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim
+[2023.10.23-08.07.28:986][ 48]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim
+[2023.10.23-08.07.28:989][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.07.28:989][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.07.28:995][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.07.29:007][ 48]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim, at AnimationSequence/762ada570b0b65084a64df5db265eb0e7ae5c52b
+[2023.10.23-08.07.29:147][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.07.29:147][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.07.29:212][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.07.29:249][ 48]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.10.23-08.07.29:252][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.07.29:252][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.07.29:265][ 48]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2023.10.23-08.07.29:273][ 48]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.23-08.07.33:427][411]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Robots/Robots/ProtoRobot/Robot_PhysicsAsset.Robot_PhysicsAsset
+[2023.10.23-08.07.33:446][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.07.33:446][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.07.33:459][411]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.07.33:601][411]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.10.23-08.07.51:381][592]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.07.51:381][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.07.51:434][592]LogViewport: Scene viewport resized to 1141x552, mode Windowed.
+[2023.10.23-08.07.51:469][593]LogViewport: Scene viewport resized to 1141x546, mode Windowed.
+[2023.10.23-08.07.51:506][594]LogViewport: Scene viewport resized to 1141x534, mode Windowed.
+[2023.10.23-08.07.51:525][595]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2023.10.23-08.07.54:400][815]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Robots/Robots/ProtoRobot/Robot.Robot
+[2023.10.23-08.07.54:400][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.07.54:400][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.07.54:418][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.07.54:597][815]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.10.23-08.07.57:156][971]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.07.57:156][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.07.57:199][971]LogViewport: Scene viewport resized to 1141x554, mode Windowed.
+[2023.10.23-08.07.57:214][972]LogViewport: Scene viewport resized to 1141x549, mode Windowed.
+[2023.10.23-08.07.57:280][973]LogViewport: Scene viewport resized to 1141x533, mode Windowed.
+[2023.10.23-08.08.05:473][703]LogSlate: Window 'Robot_Anim' being destroyed
+[2023.10.23-08.08.05:489][703]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.08.05:489][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.08.05:496][703]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.08.05:496][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.08.05:549][703]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.08.05:549][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.08.12:506][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.08.12:514][516]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.12:533][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.08.14:017][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/RobotAutomation/Robot.Robot
+[2023.10.23-08.08.14:017][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.08.14:018][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.08.14:065][682]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.19:057][250]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.19:058][250]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.19:058][250]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.19:059][250]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.20:510][405]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.20:510][405]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.20:510][405]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.20:511][405]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.23:295][720]LogSlate: Took 0.003104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.23-08.08.25:312][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.25:312][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.25:313][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.25:314][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.25:314][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.08.25:315][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.09.02:062][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.09.02:327][951]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2023.10.23-08.09.02:355][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.09.09:595][951]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.10.23-08.09.09:604][951]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.10.23-08.09.09:615][951]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.10.23-08.09.09:629][952]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.10.23-08.09.10:542][ 56]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2023.10.23-08.09.10:548][ 56]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.10.23-08.09.10:620][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.09.15:995][541]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.NewAnimBlueprint
+[2023.10.23-08.09.15:996][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.09.15:996][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.09.16:001][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.09.16:001][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.09.16:006][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.09.16:159][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.09.16:159][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.09.16:234][541]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2023.10.23-08.09.26:077][389]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.23-08.09.27:332][495]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.10.23-08.09.36:562][219]BlueprintLog: New page: Compile NewAnimBlueprint
+[2023.10.23-08.09.36:598][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.23-08.09.37:307][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-08.09.37:365][267]LogSavePackage: Moving output files for package: /Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint
+[2023.10.23-08.09.37:365][267]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/NewAnimBlueprintC059CACB4BAEF9E771DAC28DA251B884.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.uasset'
+[2023.10.23-08.09.37:376][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 241 ms)
+[2023.10.23-08.09.37:380][267]AssetCheck: New page: Asset Save: NewAnimBlueprint
+[2023.10.23-08.09.37:380][267]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.NewAnimBlueprint
+[2023.10.23-08.09.38:493][341]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2023.10.23-08.09.38:507][341]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.09.38:507][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.09.38:515][341]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.09.38:516][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.09.38:558][341]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.09.38:558][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.10.01:573][  8]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2023.10.23-08.10.09:215][898]LogContentBrowser: Attempting asset rename: Robot_Anim -> Robot_Anim_Seq
+[2023.10.23-08.10.09:231][898]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim_Seq.Robot_Anim_Seq' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.PackageMetaData'
+[2023.10.23-08.10.09:232][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-08.10.09:314][898]LogSavePackage: Moving output files for package: /Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint
+[2023.10.23-08.10.09:315][898]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/NewAnimBlueprint3AE96C29492B13389C69D3A0EB2DC3D2.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.uasset'
+[2023.10.23-08.10.09:322][898]LogSavePackage: Moving output files for package: /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim_Seq
+[2023.10.23-08.10.09:322][898]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/Robot_Anim_Seq4B0B53BF4826AED82D58F4A967B80E12.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/Robot_Anim_Seq.uasset'
+[2023.10.23-08.10.09:331][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 341 ms)
+[2023.10.23-08.10.09:359][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.10.23-08.10.09:380][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.23-08.10.09:397][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.23-08.10.09:401][898]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.23-08.10.09:401][898]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim_Seq.Robot_Anim_Seq
+[2023.10.23-08.10.09:401][898]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.NewAnimBlueprint
+[2023.10.23-08.10.15:309][595]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Robot_Anim
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.SKEL_Robot_Anim_C' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.SKEL_Robot_Anim_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.SKEL_Robot_Anim_C:AnimGraph' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:321][595]LogMetaData: Removing '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:AnimGraph' ref from Metadata '/Game/Assets/Robots/Robots/ProtoRobot/NewAnimBlueprint.PackageMetaData'
+[2023.10.23-08.10.15:323][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-08.10.15:370][595]LogSavePackage: Moving output files for package: /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim
+[2023.10.23-08.10.15:370][595]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/Robot_AnimEF17AD954EB0B659318AAD94AADC3428.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/Robot_Anim.uasset'
+[2023.10.23-08.10.15:382][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 400 ms)
+[2023.10.23-08.10.15:411][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.23-08.10.15:430][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.10.23-08.10.15:447][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.23-08.10.15:451][595]AssetCheck: New page: Asset Save: Robot_Anim
+[2023.10.23-08.10.15:451][595]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim
+[2023.10.23-08.10.16:330][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.10.19:192][ 26]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.19:192][ 26]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.19:193][ 26]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.19:194][ 26]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.19:194][ 26]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.19:195][ 26]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:547][306]BlueprintLog: New page: Compile Robot
+[2023.10.23-08.10.21:581][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:581][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:607][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.23-08.10.21:611][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:611][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:611][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:613][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:613][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_1, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:616][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:616][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:617][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_1, they are designed to work with AAIControllers!
+[2023.10.23-08.10.21:617][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_1, they are designed to work with AAIControllers!
+[2023.10.23-08.10.22:503][401]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-08.10.22:508][401]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-08.10.22:509][401]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.23-08.10.22:509][401]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.23-08.10.22:509][401]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 21 us)
+[2023.10.23-08.10.22:509][401]LogWorldPartition: Display: GenerateStreaming took 121 us (total: 377 us)
+[2023.10.23-08.10.22:509][401]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.23-08.10.22:510][401]LogPlayLevel: [PlayLevel] Compiling Robot_Anim before play...
+[2023.10.23-08.10.22:540][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.23-08.10.22:542][401]LogPlayLevel: PlayLevel: Blueprint regeneration took 31 ms (1 blueprints)
+[2023.10.23-08.10.22:542][401]PIE: New page: PIE session: TopDownMap (23 oct. 2023 12:10:22)
+[2023.10.23-08.10.22:542][401]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.10.23-08.10.22:545][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003627s)
+[2023.10.23-08.10.22:545][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003652s)
+[2023.10.23-08.10.22:545][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.10.22:545][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.10.22:546][401]LogAIModule: Creating AISystem for world TopDownMap
+[2023.10.23-08.10.22:546][401]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-08.10.22:546][401]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-08.10.22:546][401]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.23-08.10.22:547][401]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2023.10.23-08.10.22:547][401]LogWorldPartition: Display: WorldPartition initialize took 832 us (total: 314 ms)
+[2023.10.23-08.10.22:547][401]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2023.10.23-08.10.22:562][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.23-08.10.22:563][401]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.23-08.10.22:563][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.23-08.10.22:563][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-08.10.22:564][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-08.10.22:564][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-08.10.22:564][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-08.10.22:565][401]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-08.10.22:581][401]LogAudioMixer: Display: Using Audio Hardware Device BenQ GL2250H (NVIDIA High Definition Audio)
+[2023.10.23-08.10.22:581][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-08.10.22:581][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-08.10.22:581][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-08.10.22:582][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.10.23-08.10.22:582][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.10.23-08.10.22:583][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.10.23-08.10.22:583][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.10.23-08.10.22:583][401]LogInit: FAudioDevice initialized with ID 4.
+[2023.10.23-08.10.22:583][401]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2023.10.23-08.10.22:583][401]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.23-08.10.22:634][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-08.10.22:634][401]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.10.23-08.10.22:636][401]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_UAID_703217D82BE64BB201_1774754327, they are designed to work with AAIControllers!
+[2023.10.23-08.10.22:636][401]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.10.23-10.10.22
+[2023.10.23-08.10.22:637][401]LogWorld: Bringing up level for play took: 0.002289
+[2023.10.23-08.10.22:638][401]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.10.23-08.10.22:642][401]PIE: Server logged in
+[2023.10.23-08.10.22:645][401]PIE: Play in editor total start time 0,136 seconds.
+[2023.10.23-08.10.22:654][401]LogViewport: Scene viewport resized to 1074x920, mode Windowed.
+[2023.10.23-08.10.30:044][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-08.10.30:044][778]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.10.23-08.10.30:044][778]LogSlate: Window 'Mechopolis Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.23-08.10.30:049][778]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.10.30:049][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.10.30:050][778]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.10.23-08.10.30:051][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-08.10.30:055][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.10.30:073][778]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.23-08.10.30:073][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.23-08.10.30:075][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.23-08.10.30:080][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.23-08.10.30:118][782]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.10.23-08.10.34:363][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-08.10.34:411][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.10.34:418][287]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.10.34:468][287]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/RobotAutomation/Robot
+[2023.10.23-08.10.34:468][287]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/Robot3BB0CEF84961FB1094313B871F3A0C9B.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/TopDown/Blueprints/RobotAutomation/Robot.uasset'
+[2023.10.23-08.10.34:475][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 512 ms)
+[2023.10.23-08.10.34:479][287]AssetCheck: New page: Asset Save: Robot
+[2023.10.23-08.10.34:479][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/RobotAutomation/Robot.Robot
+[2023.10.23-08.10.42:974][283]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Robots/Robots/ProtoRobot/Robot.Robot
+[2023.10.23-08.10.42:974][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.10.42:974][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.10.42:981][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.10.43:144][283]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.10.23-08.10.43:222][283]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.10.23-08.10.56:722][161]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2023.10.23-08.10.58:664][299]LogSlate: Window 'Robot' being destroyed
+[2023.10.23-08.10.58:686][299]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.10.58:686][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.11.00:149][452]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim
+[2023.10.23-08.11.00:149][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.11.00:149][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.11.00:155][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.11.00:155][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.11.00:161][452]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.23-08.11.00:319][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.11.00:319][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.11.00:389][452]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2023.10.23-08.11.00:398][452]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.23-08.11.44:206][380]BlueprintLog: New page: Compile Robot_Anim
+[2023.10.23-08.11.44:238][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.23-08.11.56:174][424]LogViewport: Scene viewport resized to 475x419, mode Windowed.
+[2023.10.23-08.11.56:241][426]LogViewport: Scene viewport resized to 259x187, mode Windowed.
+[2023.10.23-08.11.56:259][427]LogViewport: Scene viewport resized to 195x118, mode Windowed.
+[2023.10.23-08.11.56:727][482]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2023.10.23-08.11.57:945][628]LogSlate: Window 'Robot_Anim' being destroyed
+[2023.10.23-08.11.57:951][628]LogViewport: Scene viewport resized to 476x434, mode Windowed.
+[2023.10.23-08.11.57:964][629]LogViewport: Scene viewport resized to 476x431, mode Windowed.
+[2023.10.23-08.11.57:976][630]LogViewport: Scene viewport resized to 476x429, mode Windowed.
+[2023.10.23-08.11.57:986][631]LogViewport: Scene viewport resized to 476x427, mode Windowed.
+[2023.10.23-08.11.57:997][632]LogViewport: Scene viewport resized to 476x426, mode Windowed.
+[2023.10.23-08.11.58:007][633]LogViewport: Scene viewport resized to 476x424, mode Windowed.
+[2023.10.23-08.11.58:017][634]LogViewport: Scene viewport resized to 476x421, mode Windowed.
+[2023.10.23-08.11.58:028][635]LogViewport: Scene viewport resized to 476x419, mode Windowed.
+[2023.10.23-08.11.58:040][636]LogViewport: Scene viewport resized to 476x417, mode Windowed.
+[2023.10.23-08.11.58:049][637]LogViewport: Scene viewport resized to 476x416, mode Windowed.
+[2023.10.23-08.11.58:060][638]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.10.23-08.11.58:072][639]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.10.23-08.11.58:083][640]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2023.10.23-08.11.58:093][641]LogViewport: Scene viewport resized to 476x407, mode Windowed.
+[2023.10.23-08.12.08:668][902]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Blueprint Update Animation  and was replaced as a Custom Event!
+[2023.10.23-08.13.02:056][113]BlueprintLog: New page: Compile Robot_Anim
+[2023.10.23-08.13.02:058][113]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Could not find a variable named "Character" in 'Robot_Anim_C'.
+Make sure 'Robot_Anim_C' has been compiled for  Get Character
+[2023.10.23-08.13.02:058][113]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Could not find a variable named "Speed" in 'Robot_Anim_C'.
+Make sure 'Robot_Anim_C' has been compiled for  Set Speed
+[2023.10.23-08.13.02:059][113]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Could not find a variable named "Character" in 'Robot_Anim_C'.
+Make sure 'Robot_Anim_C' has been compiled for  Get Character
+[2023.10.23-08.13.02:059][113]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Could not find a variable named "Speed" in 'Robot_Anim_C'.
+Make sure 'Robot_Anim_C' has been compiled for  Set Speed
+[2023.10.23-08.13.02:059][113]LogBlueprint: Error: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] The property associated with  Character  could not be found in '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C'
+[2023.10.23-08.13.02:059][113]LogBlueprint: Error: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] The property associated with  Speed  could not be found in '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C'
+[2023.10.23-08.13.02:087][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.23-08.13.33:922][868]BlueprintLog: New page: Compile Robot_Anim
+[2023.10.23-08.13.33:924][868]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Could not find a variable named "Speed" in 'Robot_Anim_C'.
+Make sure 'Robot_Anim_C' has been compiled for  Set Speed
+[2023.10.23-08.13.33:924][868]LogBlueprint: Warning: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] Could not find a variable named "Speed" in 'Robot_Anim_C'.
+Make sure 'Robot_Anim_C' has been compiled for  Set Speed
+[2023.10.23-08.13.33:925][868]LogBlueprint: Error: [AssetLog] C:\Users\PauAmigóArjona\Documents\Mechropolis\Content\Assets\Robots\Robots\ProtoRobot\Robot_Anim.uasset: [Compiler] The property associated with  Speed  could not be found in '/Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C'
+[2023.10.23-08.13.33:955][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.23-08.13.46:014][ 81]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.10.23-08.13.47:540][240]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.10.23-08.13.47:544][240]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.10.23-08.13.50:368][571]BlueprintLog: New page: Compile Robot_Anim
+[2023.10.23-08.13.50:400][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.10.23-08.13.50:408][571]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:434][572]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:446][573]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:454][574]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:463][575]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:471][576]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:480][577]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:488][578]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:497][579]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:505][580]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:513][581]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:521][582]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:530][583]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:538][584]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:546][585]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.50:555][586]LogScript: Warning: Accessed None trying to read property Robot
+	Robot_Anim_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Robot_Anim_C_0
+	Function /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim_C:ExecuteUbergraph_Robot_Anim:0028
+[2023.10.23-08.13.56:096][247]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-08.13.56:102][247]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-08.13.56:103][247]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.23-08.13.56:103][247]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.23-08.13.56:103][247]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 29 us)
+[2023.10.23-08.13.56:103][247]LogWorldPartition: Display: GenerateStreaming took 124 us (total: 501 us)
+[2023.10.23-08.13.56:103][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-08.13.56:104][247]PIE: New page: PIE session: TopDownMap (23 oct. 2023 12:13:56)
+[2023.10.23-08.13.56:104][247]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.10.23-08.13.56:107][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004011s)
+[2023.10.23-08.13.56:107][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.004055s)
+[2023.10.23-08.13.56:107][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.13.56:107][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.13.56:108][247]LogAIModule: Creating AISystem for world TopDownMap
+[2023.10.23-08.13.56:108][247]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-08.13.56:108][247]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-08.13.56:108][247]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.23-08.13.56:109][247]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2023.10.23-08.13.56:109][247]LogWorldPartition: Display: WorldPartition initialize took 875 us (total: 315 ms)
+[2023.10.23-08.13.56:109][247]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2023.10.23-08.13.56:125][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.23-08.13.56:128][247]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.23-08.13.56:128][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.23-08.13.56:128][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-08.13.56:128][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-08.13.56:128][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-08.13.56:128][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-08.13.56:130][247]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-08.13.56:145][247]LogAudioMixer: Display: Using Audio Hardware Device BenQ GL2250H (NVIDIA High Definition Audio)
+[2023.10.23-08.13.56:145][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-08.13.56:145][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-08.13.56:145][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-08.13.56:147][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.23-08.13.56:147][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.23-08.13.56:148][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.23-08.13.56:148][247]LogInit: FAudioDevice initialized with ID 5.
+[2023.10.23-08.13.56:148][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.23-08.13.56:148][247]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownMap'.
+[2023.10.23-08.13.56:148][247]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.23-08.13.56:191][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-08.13.56:191][247]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.10.23-08.13.56:193][247]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_UAID_703217D82BE64BB201_1774754327, they are designed to work with AAIControllers!
+[2023.10.23-08.13.56:193][247]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.10.23-10.13.56
+[2023.10.23-08.13.56:194][247]LogWorld: Bringing up level for play took: 0.002287
+[2023.10.23-08.13.56:196][247]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.10.23-08.13.56:199][247]PIE: Server logged in
+[2023.10.23-08.13.56:200][247]PIE: Play in editor total start time 0,098 seconds.
+[2023.10.23-08.13.56:211][247]LogViewport: Scene viewport resized to 1074x920, mode Windowed.
+[2023.10.23-08.14.09:507][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-08.14.09:507][937]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.10.23-08.14.09:507][937]LogSlate: Window 'Mechopolis Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.23-08.14.09:512][937]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.14.09:512][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.14.09:512][937]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.10.23-08.14.09:514][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-08.14.09:516][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.14.09:533][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.23-08.14.09:533][937]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.23-08.14.09:533][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.23-08.14.09:534][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.23-08.14.09:541][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.10.23-08.14.09:579][940]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.10.23-08.14.12:399][201]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.12:399][201]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.12:399][201]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.10.23-08.14.20:107][110]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:115][111]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:124][112]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:132][113]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:141][114]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:149][115]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:157][116]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:165][117]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:174][118]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:182][119]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:190][120]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:199][121]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:207][122]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:218][123]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:227][124]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:235][125]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:243][126]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:251][127]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:259][128]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:267][129]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:275][130]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:284][131]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:293][132]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:300][133]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:309][134]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:318][135]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:325][136]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:334][137]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:342][138]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:351][139]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:359][140]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:368][141]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:376][142]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:384][143]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:392][144]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:400][145]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:408][146]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:418][147]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:425][148]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:434][149]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:443][150]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:451][151]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:459][152]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:468][153]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:476][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:484][155]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:492][156]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:500][157]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:510][158]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:517][159]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:525][160]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:533][161]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:543][162]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:550][163]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:559][164]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:568][165]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:576][166]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:584][167]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:592][168]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:601][169]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:609][170]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:618][171]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:626][172]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:634][173]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:643][174]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:651][175]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:659][176]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:668][177]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:675][178]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:684][179]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:693][180]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:700][181]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:709][182]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:718][183]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:725][184]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:734][185]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:742][186]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:751][187]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:759][188]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:767][189]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:775][190]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:784][191]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:792][192]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:801][193]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:809][194]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:818][195]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:826][196]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:834][197]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:842][198]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:851][199]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:859][200]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:868][201]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:876][202]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:884][203]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:893][204]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:900][205]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:909][206]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:917][207]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:925][208]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:934][209]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:943][210]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:951][211]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:960][212]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:968][213]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:976][214]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:984][215]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.20:993][216]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:003][217]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:011][218]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:021][219]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:028][220]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:037][221]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:045][222]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:053][223]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:062][224]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:070][225]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:078][226]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:087][227]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:095][228]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:104][229]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:112][230]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:120][231]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:128][232]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:137][233]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:146][234]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:153][235]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:162][236]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:170][237]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:178][238]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:187][239]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:196][240]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:204][241]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:211][242]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:220][243]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:228][244]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:236][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:245][246]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:253][247]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:262][248]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:270][249]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:278][250]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:286][251]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:295][252]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:304][253]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:312][254]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:320][255]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:328][256]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:337][257]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:344][258]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:354][259]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:362][260]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:370][261]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:378][262]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:386][263]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:395][264]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:403][265]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:411][266]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:420][267]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:428][268]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:436][269]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:444][270]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:453][271]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:462][272]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:470][273]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:477][274]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:486][275]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:495][276]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:503][277]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:511][278]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:519][279]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:528][280]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:537][281]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:544][282]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:554][283]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:561][284]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:570][285]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:578][286]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:587][287]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:595][288]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:608][289]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:615][290]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:624][291]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:632][292]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:641][293]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:651][294]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:665][295]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:677][296]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:685][297]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:693][298]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:701][299]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:710][300]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:717][301]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:726][302]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:734][303]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:742][304]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:750][305]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:759][306]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:767][307]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:775][308]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:784][309]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:792][310]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:801][311]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:809][312]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:817][313]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:825][314]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:834][315]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:842][316]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:850][317]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:859][318]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:868][319]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:876][320]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:884][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:893][322]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:900][323]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:909][324]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:917][325]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:925][326]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:934][327]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:942][328]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:950][329]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:959][330]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:968][331]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:975][332]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:983][333]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.21:992][334]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:001][335]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:009][336]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:017][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:025][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:034][339]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:042][340]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:051][341]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:059][342]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:067][343]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:075][344]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:084][345]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:092][346]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.22:100][347]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.26:950][925]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.26:960][926]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.26:968][927]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.26:976][928]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.26:984][929]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.26:992][930]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:001][931]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:010][932]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:017][933]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:026][934]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:059][938]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:084][941]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:100][943]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:109][944]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:118][945]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:126][946]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:134][947]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:143][948]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:151][949]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:175][952]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:193][954]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:202][955]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:211][956]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:220][957]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:237][959]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:245][960]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:254][961]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:263][962]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:279][964]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:287][965]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:295][966]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:304][967]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:312][968]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:328][970]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:345][972]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:362][974]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:371][975]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:387][977]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:395][978]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:404][979]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:412][980]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:421][981]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:437][983]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:445][984]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:454][985]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:463][986]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:471][987]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:478][988]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:512][992]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:537][995]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:546][996]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:562][998]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:570][999]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:604][  3]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:637][  7]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:671][ 11]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:695][ 14]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:704][ 15]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:721][ 17]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:729][ 18]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:737][ 19]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:753][ 21]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:770][ 23]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:903][ 39]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.27:937][ 43]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:079][ 60]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:095][ 62]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:112][ 64]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:203][ 75]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:295][ 86]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:320][ 89]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:387][ 97]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:396][ 98]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.28:404][ 99]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:404][337]BlueprintLog: New page: Compile Robot
+[2023.10.23-08.14.30:445][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:445][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_1, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:445][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:472][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.10.23-08.14.30:478][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:478][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:478][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_1, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:478][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_1, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:478][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:478][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:479][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_2, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:482][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:483][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:483][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:483][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:483][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_2, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:483][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_2, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:528][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.30:528][337]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_0, they are designed to work with AAIControllers!
+[2023.10.23-08.14.31:387][437]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-08.14.31:392][437]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.23-08.14.31:393][437]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.23-08.14.31:393][437]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.23-08.14.31:393][437]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 34 us)
+[2023.10.23-08.14.31:393][437]LogWorldPartition: Display: GenerateStreaming took 115 us (total: 616 us)
+[2023.10.23-08.14.31:393][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-08.14.31:393][437]PIE: New page: PIE session: TopDownMap (23 oct. 2023 12:14:31)
+[2023.10.23-08.14.31:393][437]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.10.23-08.14.31:397][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003692s)
+[2023.10.23-08.14.31:397][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003726s)
+[2023.10.23-08.14.31:397][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-08.14.31:397][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-08.14.31:398][437]LogAIModule: Creating AISystem for world TopDownMap
+[2023.10.23-08.14.31:398][437]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.23-08.14.31:398][437]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.23-08.14.31:398][437]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.23-08.14.31:399][437]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2023.10.23-08.14.31:399][437]LogWorldPartition: Display: WorldPartition initialize took 872 us (total: 316 ms)
+[2023.10.23-08.14.31:399][437]LogPlayLevel: PIE: World Init took: (0.001725s)
+[2023.10.23-08.14.31:416][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.10.23-08.14.31:419][437]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.23-08.14.31:419][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.23-08.14.31:419][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-08.14.31:419][437]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-08.14.31:419][437]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-08.14.31:419][437]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-08.14.31:421][437]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-08.14.31:436][437]LogAudioMixer: Display: Using Audio Hardware Device BenQ GL2250H (NVIDIA High Definition Audio)
+[2023.10.23-08.14.31:436][437]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-08.14.31:436][437]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-08.14.31:436][437]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-08.14.31:437][437]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.23-08.14.31:437][437]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.23-08.14.31:438][437]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.23-08.14.31:438][437]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.23-08.14.31:438][437]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.23-08.14.31:438][437]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownMap'.
+[2023.10.23-08.14.31:439][437]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.23-08.14.31:493][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-08.14.31:493][437]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.10.23-08.14.31:494][437]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with Robot_C_UAID_703217D82BE64BB201_1774754327, they are designed to work with AAIControllers!
+[2023.10.23-08.14.31:495][437]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.10.23-10.14.31
+[2023.10.23-08.14.31:495][437]LogWorld: Bringing up level for play took: 0.002013
+[2023.10.23-08.14.31:496][437]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.10.23-08.14.31:499][437]PIE: Server logged in
+[2023.10.23-08.14.31:500][437]PIE: Play in editor total start time 0,108 seconds.
+[2023.10.23-08.14.31:520][437]LogViewport: Scene viewport resized to 1074x920, mode Windowed.
+[2023.10.23-08.14.41:166][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-08.14.41:166][132]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.10.23-08.14.41:166][132]LogSlate: Window 'Mechopolis Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.10.23-08.14.41:169][132]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.14.41:170][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.14.41:170][132]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.10.23-08.14.41:172][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-08.14.41:175][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.14.41:191][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.23-08.14.41:191][132]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.23-08.14.41:191][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.23-08.14.41:193][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.23-08.14.41:198][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.23-08.14.41:248][136]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.10.23-08.14.42:472][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.23-08.14.42:475][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-08.14.42:529][280]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/TT/UHO58NE9WX8VFHPEJ5DVVV
+[2023.10.23-08.14.42:529][280]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/UHO58NE9WX8VFHPEJ5DVVV649F7A53413C546BC6668D9F4F175632.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/TT/UHO58NE9WX8VFHPEJ5DVVV.uasset'
+[2023.10.23-08.14.42:551][280]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/RobotAutomation/Robot
+[2023.10.23-08.14.42:551][280]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/RobotB5610C7D479D820AA4C3DBB91B6CE944.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/TopDown/Blueprints/RobotAutomation/Robot.uasset'
+[2023.10.23-08.14.42:570][280]LogSavePackage: Moving output files for package: /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim
+[2023.10.23-08.14.42:570][280]LogSavePackage: Moving '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Saved/Robot_AnimAE05D6EF4903F55D965734A8C62B2ABA.tmp' to '../../../../../../Users/PauAmigóArjona/Documents/Mechropolis/Content/Assets/Robots/Robots/ProtoRobot/Robot_Anim.uasset'
+[2023.10.23-08.14.42:577][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 613 ms)
+[2023.10.23-08.14.42:583][280]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.23-08.14.42:583][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/RobotAutomation/Robot.Robot
+[2023.10.23-08.14.42:583][280]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Robots/Robots/ProtoRobot/Robot_Anim.Robot_Anim
+[2023.10.23-08.14.42:583][280]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/RobotAutomation/Robot.Robot_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Robot_C_UAID_703217D82BE64BB201_1774754327
+[2023.10.23-08.15.01:704][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.23-08.15.01:705][494]LogStall: Shutdown...
+[2023.10.23-08.15.01:709][494]LogStall: Shutdown complete.
+[2023.10.23-08.15.01:756][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:756][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:766][494]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:766][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:771][494]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:771][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:799][494]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:799][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:832][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.23-08.15.01:832][494]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:832][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:884][494]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:884][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:892][494]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:892][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:898][494]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:898][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:918][494]LogSlate: Window 'Mechopolis - Unreal Editor' being destroyed
+[2023.10.23-08.15.01:957][495]Cmd: QUIT_EDITOR
+[2023.10.23-08.15.01:957][495]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.23-08.15.01:959][495]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.23-08.15.01:959][495]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.10.23-08.15.01:959][495]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.10.23-08.15.01:960][495]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.01:960][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-08.15.01:960][495]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.10.23-08.15.01:961][495]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.10.23-08.15.01:962][495]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.10.23-08.15.02:372][495]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.23-08.15.02:372][495]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.23-08.15.02:372][495]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2023.10.23-08.15.02:372][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.23-08.15.02:372][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.23-08.15.02:375][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.23-08.15.02:379][495]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.23-08.15.02:382][495]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.23-08.15.02:382][495]LogExit: Preparing to exit.
+[2023.10.23-08.15.02:411][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:422][495]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.23-08.15.02:867][495]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:869][495]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:871][495]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:872][495]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:873][495]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:874][495]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:875][495]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:876][495]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:877][495]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:878][495]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:879][495]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:881][495]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:882][495]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:883][495]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:884][495]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:885][495]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:886][495]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:887][495]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-08.15.02:934][495]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.10.23-08.15.02:939][495]LogExit: Editor shut down
+[2023.10.23-08.15.02:942][495]LogExit: Transaction tracking system shut down
+[2023.10.23-08.15.03:045][495]LogExit: Object subsystem successfully closed.
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: ================================================
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Total job queries 49, among them cache hits 8 (16.33%)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 29 distinct outputs (70.73%)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: RAM used: 866,70 KiB of 1,60 GiB budget. Usage: 0.05%
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Shaders Compiled: 18
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100.00%)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Average time worker was idle: 76.51 s
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.67 s
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.58 s
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 1.68
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.68 s
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Average processing rate: 6.71 jobs/sec
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Total thread time: 11,047 s
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Total thread preprocess time: 3,407 s
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Percentage time preprocessing: 30.84%
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Effective parallelization: 4.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.80 sec, max 1.00 sec, min 0.60 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.67 sec, max 0.80 sec, min 0.54 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.42 sec, max 0.48 sec, min 0.30 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.33 sec, max 0.38 sec, min 0.23 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.52% of total time (compiled    6 times, average 0.80 sec, max 1.00 sec, min 0.60 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.32% of total time (compiled    6 times, average 0.67 sec, max 0.80 sec, min 0.54 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.32% of total time (compiled    3 times, average 0.42 sec, max 0.48 sec, min 0.30 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.84% of total time (compiled    3 times, average 0.33 sec, max 0.38 sec, min 0.23 sec)
+[2023.10.23-08.15.03:049][495]LogShaderCompilers: Display: ================================================
+[2023.10.23-08.15.03:136][495]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.23-08.15.03:150][495]LogVirtualization: UE::Virtualization was shutdown
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (1025)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1023)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module AnimationEditor (1021)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1019)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module Voice (1017)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1015)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1013)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2023.10.23-08.15.03:187][495]LogModuleManager: Shutting down and abandoning module AddContentDialog (1009)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1008)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1005)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module SceneOutliner (1003)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (989)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (987)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (985)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (983)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WebMMedia (981)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (979)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (977)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (975)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (973)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (971)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (969)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (967)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (965)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (963)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module WaveTableEditor (961)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (959)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module GooglePADEditor (957)
+[2023.10.23-08.15.03:188][495]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (955)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module SequenceRecorder (954)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (951)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (949)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (947)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (945)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module SmartSnapping (943)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module PlanarCut (941)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module FractureEngine (939)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module CharacterAI (937)
+[2023.10.23-08.15.03:189][495]LogModuleManager: Shutting down and abandoning module ControlRigEditor (935)
