@@ -1220,3 +1220,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.23-19.01.14:586][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2023.10.23-19.01.27:286][307]BlueprintLog: New page: Compile FarmTile
 [2023.10.23-19.01.27:337][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.23-19.01.48:469][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.10.23-19.01.48:472][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-19.01.48:508][921]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.011484 seconds
+[2023.10.23-19.01.48:509][921]LogSerialization: UsePackageTrailer: 'true'
+[2023.10.23-19.01.48:510][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/IT/YYBE3TCJCDOPD0Z37TQ33H
+[2023.10.23-19.01.48:511][921]LogSavePackage: Moving '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Saved/YYBE3TCJCDOPD0Z37TQ33HEB2126D74F64A2EC7917769F2D81BBDB.tmp' to '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/IT/YYBE3TCJCDOPD0Z37TQ33H.uasset'
+[2023.10.23-19.01.48:514][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/T6/UMWJ818GVOOEKMD9RKTN4M
+[2023.10.23-19.01.48:514][921]LogSavePackage: Moving '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Saved/UMWJ818GVOOEKMD9RKTN4M182CB7034FDC8308FABB42A1C9A9431D.tmp' to '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/T6/UMWJ818GVOOEKMD9RKTN4M.uasset'
+[2023.10.23-19.01.48:516][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-19.01.48:575][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Farming/FarmTile" FILE="../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Content/TopDown/Blueprints/Farming/FarmTile.uasset" SILENT=true
+[2023.10.23-19.01.48:608][921]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Farming/FarmTile
+[2023.10.23-19.01.48:608][921]LogSavePackage: Moving '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Saved/FarmTileA4C17F764BC6F6277A5BF38DBB3CA1AD.tmp' to '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Content/TopDown/Blueprints/Farming/FarmTile.uasset'
+[2023.10.23-19.01.48:631][921]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/RobotAutomation/AI_RobotControler
+[2023.10.23-19.01.48:632][921]LogSavePackage: Moving '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Saved/AI_RobotControler342F34154F829EE71D38279C0EFCA873.tmp' to '../../../../../../Users/Pau/Documents/GitKraken/Mechropolis/Content/TopDown/Blueprints/RobotAutomation/AI_RobotControler.uasset'
+[2023.10.23-19.01.48:646][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms
+[2023.10.23-19.01.48:653][921]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.23-19.01.48:653][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Farming/FarmTile.FarmTile
+[2023.10.23-19.01.48:653][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/RobotAutomation/AI_RobotControler.AI_RobotControler
+[2023.10.23-19.01.48:653][921]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/Farming/FarmTile.FarmTile_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.FarmTile_C_UAID_D85ED3AF9A3E82B401_1937405119
+[2023.10.23-19.01.48:653][921]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/Farming/FarmTile.FarmTile_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.FarmTile_C_UAID_74563C29DCC5B4AF01_2121922640
