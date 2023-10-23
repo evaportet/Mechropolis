@@ -1573,3 +1573,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.23-20.31.01:872][717]AssetCheck: New page: Asset Save: SampleSeed
 [2023.10.23-20.31.01:872][717]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Farming/SampleSeed.SampleSeed
 [2023.10.23-20.31.02:526][795]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-20.31.28:071][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.23-20.31.28:149][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/MJ/3Q7UQZ4CC1JJOLJI7OCOKU_Auto1
+[2023.10.23-20.31.28:150][994]LogSavePackage: Moving '../../../../../../Descargas/evapo/e n t i/GitHub/Mechropolis/Saved/3Q7UQZ4CC1JJOLJI7OCOKU_Auto156EBD64440F2614038BE9199FD6A1CAB.tmp' to '../../../../../../Descargas/evapo/e n t i/GitHub/Mechropolis/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/MJ/3Q7UQZ4CC1JJOLJI7OCOKU_Auto1.uasset'
+[2023.10.23-20.31.28:163][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/IT/YYBE3TCJCDOPD0Z37TQ33H_Auto1
+[2023.10.23-20.31.28:164][994]LogSavePackage: Moving '../../../../../../Descargas/evapo/e n t i/GitHub/Mechropolis/Saved/YYBE3TCJCDOPD0Z37TQ33H_Auto1BAAF9BDC4811821296C8B1A7D0181B53.tmp' to '../../../../../../Descargas/evapo/e n t i/GitHub/Mechropolis/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/IT/YYBE3TCJCDOPD0Z37TQ33H_Auto1.uasset'
+[2023.10.23-20.31.28:182][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/T6/UMWJ818GVOOEKMD9RKTN4M_Auto1
+[2023.10.23-20.31.28:182][994]LogSavePackage: Moving '../../../../../../Descargas/evapo/e n t i/GitHub/Mechropolis/Saved/UMWJ818GVOOEKMD9RKTN4M_Auto122246F2544607B8C00002BB5B1AEFC07.tmp' to '../../../../../../Descargas/evapo/e n t i/GitHub/Mechropolis/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/T6/UMWJ818GVOOEKMD9RKTN4M_Auto1.uasset'
+[2023.10.23-20.31.28:198][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.152
+[2023.10.23-20.31.28:198][994]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
